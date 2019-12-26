@@ -1,5 +1,7 @@
 This project is a tribute to Bharathiyar and created by Femina Ernest. 
 
+![Screenshot](bharathy.JPG)
+
 ## Available Scripts
 
 In the project directory, you can run:
